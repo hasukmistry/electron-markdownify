@@ -36,7 +36,7 @@
     },
     "devDependencies": {
         "devtron": "^1.1.2",
-        "electron": "^7.2.4",
+        "electron": "^44.5.0",
         "electron-packager": "^7.0.3",
         "electron-reloader": "^1.0.1",
         "gulp": "^3.9.1"
@@ -49,6 +49,6 @@
         "highlightjs": "^9.16.2",
         "parse-filepath": "^1.0.2",
         "parse-katex": "^0.3.0",
-        "showdown": "^1.9.1"
+        "showdown": "^2.1.0"
     }
 }
